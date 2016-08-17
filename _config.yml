@@ -6,9 +6,9 @@ color:
   saturation: 0.3066136541310698
   rhythmicContrast: 0.28862746502272785
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#333132'
+    - '#6B778B'
+    - '#8793A7'
+    - '#FFFFFF'
+    - '#CFCFD1'
 name: Mountain Baron
